@@ -1,0 +1,16 @@
+{
+  "name": "movie_api_search",
+  "version": "1.0.0",
+  "description": "THis is the simple web application for movies discription",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepesh Upadhayay",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
